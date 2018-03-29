@@ -25,5 +25,8 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 # Display
 TARGET_SCREEN_DENSITY := 450
 
+# Recovery
+TARGET_RECOVERY_UI_MARGIN_HEIGHT := 100
+
 # inherit from the proprietary version
 -include vendor/oneplus/lemonade/BoardConfigVendor.mk
