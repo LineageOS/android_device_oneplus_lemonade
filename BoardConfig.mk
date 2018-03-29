@@ -28,5 +28,8 @@ TARGET_SCREEN_DENSITY := 450
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
+# Recovery
+TARGET_RECOVERY_UI_MARGIN_HEIGHT := 100
+
 # inherit from the proprietary version
 -include vendor/oneplus/lemonade/BoardConfigVendor.mk
