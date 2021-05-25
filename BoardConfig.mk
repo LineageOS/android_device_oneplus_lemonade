@@ -22,9 +22,6 @@ DEVICE_PATH := device/oneplus/lemonade
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 
-# Display
-TARGET_SCREEN_DENSITY := 450
-
 # Fingerprint
 SOONG_CONFIG_ONEPLUS_LAHAINA_FOD_POS_X = 453
 SOONG_CONFIG_ONEPLUS_LAHAINA_FOD_POS_Y = 2121
@@ -43,7 +40,7 @@ BOARD_ONEPLUS_DYNAMIC_PARTITIONS_SIZE := 3753902080
 BOARD_SUPER_PARTITION_SIZE := 7516192768
 
 # Recovery
-TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
+TARGET_RECOVERY_DENSITY := xxhdpi
 
 # inherit from the proprietary version
 -include vendor/oneplus/lemonade/BoardConfigVendor.mk
