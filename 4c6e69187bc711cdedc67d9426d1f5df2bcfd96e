@@ -34,6 +34,24 @@
       "parentUuid": "66fad54a_ca8573f5",
       "revId": "4c6e69187bc711cdedc67d9426d1f5df2bcfd96e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "517d1310_45e2321b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-04-12T14:07:35Z",
+      "side": 1,
+      "message": "Maybe it is, since they dropped the prop on stock 12 images.",
+      "parentUuid": "a4ca945a_8f217ddd",
+      "revId": "4c6e69187bc711cdedc67d9426d1f5df2bcfd96e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
