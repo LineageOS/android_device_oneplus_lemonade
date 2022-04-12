@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f679f3f5_2baf8e99",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-04-12T14:11:16Z",
+      "side": 1,
+      "message": "No, it actually picks up all the resources configurations\n(https://cs.android.com/android/platform/superproject/+/master:build/make/core/package_internal.mk;l\u003d496-500?q\u003d%22PRODUCT_AAPT_CONFIG%22\u0026ss\u003dandroid%2Fplatform%2Fsuperproject)",
+      "revId": "e529e59d4da65b20712aa172d176487750f86201",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
