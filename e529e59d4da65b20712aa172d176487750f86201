@@ -16,6 +16,24 @@
       "message": "No, it actually picks up all the resources configurations\n(https://cs.android.com/android/platform/superproject/+/master:build/make/core/package_internal.mk;l\u003d496-500?q\u003d%22PRODUCT_AAPT_CONFIG%22\u0026ss\u003dandroid%2Fplatform%2Fsuperproject)",
       "revId": "e529e59d4da65b20712aa172d176487750f86201",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad517d37_ee103811",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29415
+      },
+      "writtenOn": "2022-04-14T06:09:06Z",
+      "side": 1,
+      "message": "For system yeah, for recovery no. For /system we want to be as generic as possible as a general rule according to Google",
+      "parentUuid": "f679f3f5_2baf8e99",
+      "revId": "e529e59d4da65b20712aa172d176487750f86201",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
