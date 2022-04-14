@@ -34,6 +34,24 @@
       "parentUuid": "f679f3f5_2baf8e99",
       "revId": "e529e59d4da65b20712aa172d176487750f86201",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "70f7d1df_9326df0b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-04-14T13:43:23Z",
+      "side": 1,
+      "message": "You aren\u0027t building a GSI, this will increase system size",
+      "parentUuid": "ad517d37_ee103811",
+      "revId": "e529e59d4da65b20712aa172d176487750f86201",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
