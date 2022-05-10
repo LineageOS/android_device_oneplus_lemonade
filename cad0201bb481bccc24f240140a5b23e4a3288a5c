@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ba58654b_fd2523cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-05-10T20:10:14Z",
+      "side": 1,
+      "message": "Just leave it there? It\u0027s a standard thing to have in tree and doesn\u0027t hurt in case something gets added",
+      "revId": "cad0201bb481bccc24f240140a5b23e4a3288a5c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
