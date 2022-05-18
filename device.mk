@@ -20,9 +20,6 @@ TARGET_SCREEN_WIDTH := 1080
 $(call inherit-product, device/oneplus/sm8350-common/common.mk)
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
-
 PRODUCT_PACKAGES += \
     FrameworksResDevice \
     SettingsProviderResDevice \

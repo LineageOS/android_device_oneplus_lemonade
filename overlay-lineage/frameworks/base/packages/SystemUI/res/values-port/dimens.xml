@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2020 The LineageOS Project
-     SPDX-License-Identifier: Apache-2.0
--->
-<resources>
-    <!-- The bottom margin of the keyguard security container -->
-    <dimen name="kg_security_container_min_bottom_margin">367px</dimen>
-</resources>
