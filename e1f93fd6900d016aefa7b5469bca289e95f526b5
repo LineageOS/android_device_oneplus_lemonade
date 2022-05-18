@@ -16,6 +16,24 @@
       "message": "I know it might be empty, but include it anyway\nActually, you should ideally pick Iadd43e887d426732e549969ab8deb14194ca818d",
       "revId": "e1f93fd6900d016aefa7b5469bca289e95f526b5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78c7336c_5396a083",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29415
+      },
+      "writtenOn": "2022-05-18T16:52:11Z",
+      "side": 1,
+      "message": "I have never seen it populated on any device I\u0027ve worked on, why include it by default? Not sure why you\u0027d want to put anything in there instead of the device tree BoardConfig. Will pick that change.",
+      "parentUuid": "5c261228_79194776",
+      "revId": "e1f93fd6900d016aefa7b5469bca289e95f526b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
