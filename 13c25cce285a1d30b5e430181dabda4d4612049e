@@ -16,6 +16,24 @@
       "message": "This changes inherit order, it should be either first or last inside the makefiles.",
       "revId": "13c25cce285a1d30b5e430181dabda4d4612049e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5f269ee2_0e13edb2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29415
+      },
+      "writtenOn": "2022-05-23T16:27:27Z",
+      "side": 1,
+      "message": "This only matters if you\u0027re planning on overriding something, which is where inclusion order would matter. I would design trees like device/oneplus/lemonade as the \u0027base\u0027 configuration, then have anything that is needed to override in \u0027device/oneplus/lemonadep\u0027, but that isn\u0027t the case here where anything device specific is not in sm8350-common, so inclusion order doesn\u0027t matter.",
+      "parentUuid": "dd2b7639_b07f2ec5",
+      "revId": "13c25cce285a1d30b5e430181dabda4d4612049e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
