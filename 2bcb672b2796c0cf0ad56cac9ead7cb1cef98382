@@ -16,6 +16,24 @@
       "message": "extract-utils generates the file so this should remain in place for consistency with every device.",
       "revId": "2bcb672b2796c0cf0ad56cac9ead7cb1cef98382",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4a1b0b85_73937499",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29415
+      },
+      "writtenOn": "2022-05-23T16:24:32Z",
+      "side": 1,
+      "message": "Can we remove the generation of the file? Why does it exist",
+      "parentUuid": "03add40e_dafb482f",
+      "revId": "2bcb672b2796c0cf0ad56cac9ead7cb1cef98382",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
