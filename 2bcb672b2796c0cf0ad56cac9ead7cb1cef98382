@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "03add40e_dafb482f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-05-23T16:22:36Z",
+      "side": 1,
+      "message": "extract-utils generates the file so this should remain in place for consistency with every device.",
+      "revId": "2bcb672b2796c0cf0ad56cac9ead7cb1cef98382",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
