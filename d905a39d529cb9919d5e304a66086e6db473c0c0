@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1e9881d_25c65690",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 9
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-05-24T13:25:53Z",
+      "side": 1,
+      "message": "Overall, I don\u0027t really like this kind of changes.",
+      "revId": "d905a39d529cb9919d5e304a66086e6db473c0c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8d857707_b63f006b",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 9
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-05-24T13:25:53Z",
+      "side": 1,
+      "message": "To be fair, this should be placed at the top. Doesn\u0027t really matter that much because nothing in common needs BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR to be set first, but I don\u0027t see the point in touching this file anyway.",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 57
+      },
+      "revId": "d905a39d529cb9919d5e304a66086e6db473c0c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "51fc822f_44b2fe6f",
+        "filename": "device.mk",
+        "patchSetId": 9
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-05-24T13:25:53Z",
+      "side": 1,
+      "message": "This comment is not alphabetically sorted, so I would leave it as is (same as below).",
+      "range": {
+        "startLine": 32,
+        "startChar": 2,
+        "endLine": 32,
+        "endChar": 8
+      },
+      "revId": "d905a39d529cb9919d5e304a66086e6db473c0c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
