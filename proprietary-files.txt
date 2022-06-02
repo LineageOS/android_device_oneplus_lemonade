@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 9 (LE2115_11_C.48).
+## are from OnePlus 9 (LE2111_11.C.62).
 
 # ACDBs
 odm/etc/acdbdata/Audio_Parameter_Version.txt
@@ -69,8 +69,6 @@ odm/lib64/camera/com.qti.tuned.shine_gc02m1b.bin
 # Sensors
 odm/etc/sensor/config/lahaina_aw9610x_0.json
 odm/etc/sensor/config/lahaina_aw9610x_down_0.json
-odm/etc/sensor/config/lahaina_bmp380.json
-odm/etc/sensor/config/lahaina_lps22hb.json
 odm/etc/sensor/config/lahaina_qrd_ak0991x.json
 odm/etc/sensor/config/lahaina_qrd_alsps.json
 odm/etc/sensor/config/lahaina_qrd_bmi16x.json
