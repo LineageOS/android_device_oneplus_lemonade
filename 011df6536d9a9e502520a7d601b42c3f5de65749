@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8255f0cd_896a56ef",
+        "filename": "device.mk",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2023-02-03T16:02:50Z",
+      "side": 1,
+      "message": "This is already copied in sm8350-common, but to vendor/etc/audio/sku_lahaina/",
+      "range": {
+        "startLine": 15,
+        "startChar": 4,
+        "endLine": 15,
+        "endChar": 60
+      },
+      "revId": "011df6536d9a9e502520a7d601b42c3f5de65749",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
