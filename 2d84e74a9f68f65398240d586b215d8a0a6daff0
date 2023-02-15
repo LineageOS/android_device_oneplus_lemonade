@@ -16,6 +16,24 @@
       "message": "https://github.com/LineageOS/android_device_oneplus_lemonade/commit/337acc1d47e40979df86bfbe42d927f7bb537b87 not needed?",
       "revId": "2d84e74a9f68f65398240d586b215d8a0a6daff0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd59582f_a1e09531",
+        "filename": "audio/audio_platform_info_intcodec.xml",
+        "patchSetId": 14
+      },
+      "lineNbr": 258,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-02-15T21:55:04Z",
+      "side": 0,
+      "message": "technically not, but perhaps it should be kept or reverted separately.",
+      "parentUuid": "2f67f9ac_1c452127",
+      "revId": "2d84e74a9f68f65398240d586b215d8a0a6daff0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
