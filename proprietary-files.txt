@@ -892,8 +892,10 @@ odm/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so
 odm/lib64/vendor.qti.esepowermanager@1.0.so
 odm/lib64/vendor.qti.esepowermanager@1.1.so
 
+# Fingerprint (LE2115_13.1.0.593(EX01))
+odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service|1b8258d0176bdc9a9164f628c06f5a167da93224
+
 # Fingerprint
-odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
 odm/bin/init.oplus.fingerprints.sh
 odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc
 odm/etc/vintf/manifest/manifest_oplus_fingerprint.xml
