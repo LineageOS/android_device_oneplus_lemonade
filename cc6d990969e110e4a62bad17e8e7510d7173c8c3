@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e58791c7_830c897e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30416
+      },
+      "writtenOn": "2024-11-06T18:28:24Z",
+      "side": 1,
+      "message": "audio_platform_info_intcodec.xml changes are probably missing here and it can be sourced from odm/etc/audio_platform_info.xml",
+      "revId": "cc6d990969e110e4a62bad17e8e7510d7173c8c3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
